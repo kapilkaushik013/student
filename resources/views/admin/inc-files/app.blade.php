@@ -685,7 +685,7 @@ display:block;
       </div>
 
       <ul class="sidebar-menu" style="height:500px;overflow: scroll !important;" >
-        <li class="header">MAIN NAVIGATION</li>
+        <li class="header">HELLO MAIN NAVIGATION</li>
         <li ><a href="javascript:get_content('index_content')"><i class="fav fa-dashboard"></i> <span>Dashboard</span></a></li>
 	 	 				
 	<li ><a href="javascript:get_content('attendance/attendance')"><i class="fav fa-address-card-o"></i> <span>Attendance</span></a></li>
